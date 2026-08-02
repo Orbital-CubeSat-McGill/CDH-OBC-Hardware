@@ -1,0 +1,66 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c72b350f-acfc-44a2-bcbf-4f499b451c19")
+	(paper "A4")
+	(title_block
+		(title "CDH-OBC-V1.2")
+		(date "2026-08-02")
+		(rev "OBC-V1.2")
+		(comment 4 "Author: OCS division")
+	)
+	(lib_symbols)
+	(sheet
+		(at 119.38 99.06)
+		(size 30.48 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "feeb127c-8c10-4dac-8826-01ad440f2871")
+		(property "Sheetname" "MicroController"
+			(at 119.38 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 119.38 144.0946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CDH-OBC"
+				(path "/c72b350f-acfc-44a2-bcbf-4f499b451c19"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
