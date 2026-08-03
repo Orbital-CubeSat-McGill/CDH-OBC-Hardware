@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "OBC-Lib") (type "KiCad") (uri "${KIPRJMOD}/OBC-Lib.pretty") (options "") (descr ""))
+	(lib (name "OBC-Lib") (type "KiCad") (uri "/home/Barko/Projects/Cubesat/CDH-OBC-Hardware/OBC-lib/OBC-Lib.pretty") (options "") (descr ""))
+)
