@@ -2107,7 +2107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PZ0100A_N"
+		(property "Footprint" "OBC-Lib:PZ0100A_N"
 			(at 179.07 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -2483,7 +2483,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PZ0100A_N"
+		(property "Footprint" "OBC-Lib:PZ0100A_N"
 			(at 82.55 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -2859,7 +2859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PZ0100A_N"
+		(property "Footprint" "OBC-Lib:PZ0100A_N"
 			(at 77.47 68.58 0)
 			(hide yes)
 			(show_name no)
