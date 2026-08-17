@@ -3543,7 +3543,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "OBC-Lib:SW_TL3315NF250Q"
 			(at 46.99 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -3947,7 +3947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DBZ0003A-IPC_A"
+		(property "Footprint" "OBC-Lib:DBZ0003A-MFG"
 			(at 220.98 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -5726,7 +5726,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "OBC-Lib:SW_TL3315NF250Q"
 			(at 41.91 78.74 0)
 			(hide yes)
 			(show_name no)

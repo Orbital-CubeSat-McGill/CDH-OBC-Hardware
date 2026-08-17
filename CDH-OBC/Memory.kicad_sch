@@ -6359,7 +6359,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "OBC-Lib:SW_TL3315NF250Q"
 			(at 21.59 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -6838,7 +6838,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MR25H256AMDF:SON127P500X600X90-9N"
+		(property "Footprint" "OBC-Lib:SON127P500X600X90-9N"
 			(at 50.8 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -8518,7 +8518,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "OBC-Lib:SW_TL3315NF250Q"
 			(at 12.7 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -9828,7 +9828,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SO16_SOT162-1_NXP"
+		(property "Footprint" "OBC-Lib:SO16_SOT162-1_NXP"
 			(at 38.1 147.828 0)
 			(hide yes)
 			(show_name no)
@@ -11984,7 +11984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC8_INF"
+		(property "Footprint" "OBC-Lib:SOIC8_INF"
 			(at 226.06 41.91 0)
 			(hide yes)
 			(show_name no)
