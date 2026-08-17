@@ -620,7 +620,7 @@
 			)
 		)
 		(pin "GIOA4-LBK" input
-			(at 153.67 72.39 0)
+			(at 153.67 74.93 0)
 			(uuid "7d48365e-580f-4991-8e07-c5d5483f38ca")
 			(effects
 				(font
@@ -630,7 +630,7 @@
 			)
 		)
 		(pin "GIOA5-LBK" input
-			(at 153.67 74.93 0)
+			(at 153.67 72.39 0)
 			(uuid "c50d4228-9296-4060-bd50-5e41a7346b88")
 			(effects
 				(font
