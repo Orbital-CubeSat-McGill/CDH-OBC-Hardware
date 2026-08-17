@@ -4778,7 +4778,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 78.74) (xy 26.67 80.01)
+			(xy 26.67 76.2) (xy 26.67 80.01)
 		)
 		(stroke
 			(width 0)
@@ -4965,6 +4965,16 @@
 			(type default)
 		)
 		(uuid "716b41fc-b460-46bd-b2a7-86481c674467")
+	)
+	(wire
+		(pts
+			(xy 26.67 73.66) (xy 26.67 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7477cb61-8dc4-4dc7-9741-140444282dd1")
 	)
 	(wire
 		(pts
@@ -5545,16 +5555,6 @@
 			(type default)
 		)
 		(uuid "f49a953b-2f60-44ea-ba79-db147cb803ac")
-	)
-	(wire
-		(pts
-			(xy 26.67 76.2) (xy 26.67 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f61f39aa-15db-4258-9906-9c78098a3bd9")
 	)
 	(wire
 		(pts
@@ -10557,8 +10557,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 21.59 76.2 0)
-		(mirror y)
+		(at 21.59 76.2 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10566,10 +10565,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ea3e4755-1569-4f14-8753-87ab24e9a178")
 		(property "Reference" "J2"
-			(at 21.59 69.85 0)
+			(at 21.59 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10579,7 +10577,7 @@
 			)
 		)
 		(property "Value" "BAT"
-			(at 21.59 72.39 0)
+			(at 21.59 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

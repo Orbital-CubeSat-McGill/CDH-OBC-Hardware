@@ -7605,7 +7605,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 207.01 106.68 0)
+		(at 207.01 109.22 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7613,10 +7614,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2b1c5a70-4b79-44e2-a837-8d3a7264d2b8")
 		(property "Reference" "J1"
-			(at 209.55 106.6799 0)
+			(at 209.55 109.2201 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7627,7 +7627,7 @@
 			)
 		)
 		(property "Value" "CAN1"
-			(at 209.55 109.2199 0)
+			(at 209.55 106.6801 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7638,7 +7638,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
-			(at 207.01 106.68 0)
+			(at 207.01 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7649,7 +7649,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 106.68 0)
+			(at 207.01 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7660,7 +7660,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 207.01 106.68 0)
+			(at 207.01 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10912,7 +10912,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 213.36 152.4 0)
+		(at 213.36 154.94 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10920,10 +10921,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a737f8b6-13b0-4be4-a29f-f6d0db235d82")
 		(property "Reference" "J3"
-			(at 215.9 152.3999 0)
+			(at 215.9 154.9401 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10934,7 +10934,7 @@
 			)
 		)
 		(property "Value" "CAN2"
-			(at 215.9 154.9399 0)
+			(at 215.9 152.4001 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10945,7 +10945,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
-			(at 213.36 152.4 0)
+			(at 213.36 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10956,7 +10956,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 152.4 0)
+			(at 213.36 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10967,7 +10967,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 213.36 152.4 0)
+			(at 213.36 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
