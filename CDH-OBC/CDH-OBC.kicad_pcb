@@ -46758,6 +46758,14 @@
 		(uuid "f1f7e122-3d42-4e2b-b1c8-9df8893bae32")
 	)
 	(segment
+		(start 193.7 76.19)
+		(end 193.7 74.67)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D2-A)")
+		(uuid "069beab0-e1c5-4b59-88ec-c92a3a7c24e4")
+	)
+	(segment
 		(start 164.84 105.13)
 		(end 164.56705 105.40295)
 		(width 0.2)
